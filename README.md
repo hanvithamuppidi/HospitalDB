@@ -1,6 +1,6 @@
 # Hospital Management System Setup Guide
 
-This guide will walk you through the steps to set up the Hospital Management System using XAMPP and phpMyAdmin.
+This guide will walk you through the steps to set up the Hospital Management System using XAMPP and phpMyAdmin. This was a group project for our Database Systems class. 
 
 ## Installation Steps:
 
